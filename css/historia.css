@@ -1,0 +1,20 @@
+#historia{
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  background-size: cover; 
+  text-align: center;
+  padding: 0px 25px;
+  align-items: center;
+  background-image: url(/img/circle-scatter-haikei.svg);
+  background-attachment: fixed;
+}
+
+.historia_texto h2{
+  font-size: 3rem;
+  font-family: 'Roboto', sans-serif;
+}
+
+.historia_texto p{
+  font-size: 1.5rem;
+  font-family: Arial, Helvetica, sans-serif;
+}

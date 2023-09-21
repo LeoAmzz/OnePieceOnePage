@@ -1,0 +1,16 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  text-decoration: none;
+  list-style: none;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+body{
+  font-family: "Fira Sans", Helvetica, sans-serif;
+  margin: 0px;
+}

@@ -1,0 +1,33 @@
+
+
+#sobre{
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  background-size: cover; 
+  text-align: center;
+  padding: 0px 25px;
+  align-items: center;
+  background-image: url(/img/wave-haikei\ \(1\).svg);
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.sobre_texto h2{
+  font-size: 3rem;
+  font-family: 'Roboto', sans-serif;
+  margin-bottom: 15px;
+}
+
+.sobre_texto p{
+  font-size: 1.5rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+
+
+
+
+                     
